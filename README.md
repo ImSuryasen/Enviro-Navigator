@@ -52,7 +52,7 @@ Enviro Navigator is a versatile tool tailored for:
 - **Environmental Advocates**: Facilitating eco-friendly initiatives and education.
 
 ## 🌍 Scaling for a Sustainable Digital India
-By integrating advanced AWS services and leveraging open-source LLM models, Enviro Navigators is committed to creating scalable, green logistics solutions. Our vision aligns with smart city initiatives, contributing to a more sustainable and livable urban landscape.
+Enviro Navigators is committed to creating scalable, green logistics solutions by integrating advanced cloud services and leveraging machine learning models. Our vision aligns with smart city initiatives, contributing to a more sustainable and livable urban landscape.
 
 ---
 
