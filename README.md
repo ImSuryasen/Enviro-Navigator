@@ -15,8 +15,8 @@ Our primary objective is to create a suite of sustainable strategies that empowe
 - **Minimize Waste** through the adoption of eco-friendly packaging and robust recycling programs.
 - **Conserve Natural Resources** by promoting water and paper-saving initiatives across the supply chain.
 
-## 🚀 Project: EcoShip Navigator
-**EcoShip Navigator**, our flagship solution, is designed to help EcoShip Logistics achieve its sustainability goals. This comprehensive platform leverages AI, ML, and Cloud technologies to optimize logistics operations, enhance resource conservation, and promote green practices.
+## 🚀 Project: Enviro Navigator
+**Enviro Navigator**, our flagship solution, is designed to help EcoShip Logistics achieve its sustainability goals. This comprehensive platform leverages AI, ML, and Cloud technologies to optimize logistics operations, enhance resource conservation, and promote green practices.
 
 ### Key Features:
 - **Eco-Friendly Packaging Suggestions**: Provides data-driven insights for selecting sustainable packaging materials.
