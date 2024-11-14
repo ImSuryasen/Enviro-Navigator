@@ -3,7 +3,7 @@ Welcome to Enviro Navigators — Charting a Greener Path for E-Commerce Logistic
 Our team is dedicated to pioneering innovative solutions for a sustainable future in the e-commerce industry, empowering businesses like EcoShip Logistics to embrace green practices and contribute to a more eco-friendly delivery ecosystem.
 
 ## 🌟 Project Theme
-**Sustainable Solutions for E-Commerce: Navigating Towards a Greener Future**
+**Develop Sustainable Solutions for the E-commerce Industry** 
 In line with Amazon Smbhav’s vision of ‘Unlocking Infinite Possibilities for a Digital India’, Enviro Navigators aims to develop scalable, tech-driven solutions that reduce environmental impact while enhancing operational efficiency in the logistics sector.
 
 ## 💡 Vision
